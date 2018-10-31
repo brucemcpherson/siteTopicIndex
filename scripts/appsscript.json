@@ -1,0 +1,15 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "cSiteStats",
+      "libraryId": "1Fty63hZkFuB9c0-LyRrxbysb7_LfOeGJI798ccglBPFZyl5X-P2-u1x-",
+      "version": "8"
+    }]
+  },
+  "webapp": {
+    "access": "ANYONE_ANONYMOUS",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
